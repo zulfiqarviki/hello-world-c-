@@ -1,0 +1,14 @@
+D:\Zulfiqar\helloworld\bin\Debug\net9.0\helloworld.exe
+D:\Zulfiqar\helloworld\bin\Debug\net9.0\helloworld.deps.json
+D:\Zulfiqar\helloworld\bin\Debug\net9.0\helloworld.runtimeconfig.json
+D:\Zulfiqar\helloworld\bin\Debug\net9.0\helloworld.dll
+D:\Zulfiqar\helloworld\bin\Debug\net9.0\helloworld.pdb
+D:\Zulfiqar\helloworld\obj\Debug\net9.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zulfiqar\helloworld\obj\Debug\net9.0\helloworld.AssemblyInfoInputs.cache
+D:\Zulfiqar\helloworld\obj\Debug\net9.0\helloworld.AssemblyInfo.cs
+D:\Zulfiqar\helloworld\obj\Debug\net9.0\helloworld.csproj.CoreCompileInputs.cache
+D:\Zulfiqar\helloworld\obj\Debug\net9.0\helloworld.dll
+D:\Zulfiqar\helloworld\obj\Debug\net9.0\refint\helloworld.dll
+D:\Zulfiqar\helloworld\obj\Debug\net9.0\helloworld.pdb
+D:\Zulfiqar\helloworld\obj\Debug\net9.0\helloworld.genruntimeconfig.cache
+D:\Zulfiqar\helloworld\obj\Debug\net9.0\ref\helloworld.dll
